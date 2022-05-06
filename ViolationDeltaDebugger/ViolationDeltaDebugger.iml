@@ -28,5 +28,6 @@
     <orderEntry type="library" name="Maven: cs.utd.soles:ProjectLineCounter:1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.javatuples:javatuples:1.2" level="project" />
     <orderEntry type="library" name="Maven: net.lingala.zip4j:zip4j:1.3.2" level="project" />
+    <orderEntry type="library" name="Maven: info.picocli:picocli:4.6.3" level="project" />
   </component>
 </module>
